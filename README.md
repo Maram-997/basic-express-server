@@ -3,6 +3,7 @@ LAB - 02
 Deployment Test
 * Author: Maram Abu Murad
 * [tests report](https://github.com/Maram-997/basic-express-server/actions)
+* [Heroku link](https://basic-expresserver.herokuapp.com/)
 * Setup
 .env requirements
 PORT - 3000
