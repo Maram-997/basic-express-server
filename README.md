@@ -3,7 +3,7 @@ LAB - 02
 Deployment Test
 * Author: Maram Abu Murad
 * [tests report](https://github.com/Maram-997/basic-express-server/actions)
-* [Heroku link](https://basic-expresserver.herokuapp.com/)
+* [Heroku link](https://basic-expresserver.herokuapp.com/person)
 * Setup
 .env requirements
 PORT - 3000
@@ -28,3 +28,6 @@ Returns Object
 
 * Tests
  npm test
+
+* UML Diagram
+![img](umlDigram02.png)
